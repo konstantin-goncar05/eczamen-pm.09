@@ -1,0 +1,6 @@
+.Services{
+    width: 100%;
+    min-height: calc(100vh - 80px - 80px);
+    background-color: #d5f4f4;
+    padding: 50px;
+}

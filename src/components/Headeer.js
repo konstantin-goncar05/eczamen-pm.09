@@ -9,6 +9,7 @@ function Header() {
          <Header />
          <li onClick={changePageUno}> Главная</li>
          <li onClick={changePageUno}> Калькулятор стоимости</li>
+         <li onClick={changePageUno}> Услуги</li>
        </ul>
 
       </div>
